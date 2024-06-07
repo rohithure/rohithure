@@ -21,7 +21,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring-boot,kafka,mongodb,c,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,kafka,mongodb,c,mysql" /><br>
 </div>
 
 <br/>
