@@ -22,6 +22,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,kafka,mongodb,c,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=quarkus,reactive programming" /><br>
 </div>
 
 <br/>
